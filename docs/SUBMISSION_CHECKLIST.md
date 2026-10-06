@@ -24,7 +24,8 @@ Deadline: **2026-10-09 14:00 UTC**
 ## Requires account access or owner input
 
 - [x] Re-authenticate GitHub CLI (`jeffierw`)
-- [ ] Create a public GitHub repository and push the project
+- [x] Create and push public GitHub repository:
+  https://github.com/jeffierw/stacktrace-memory
 - [ ] Capture a screenshot or short demo video from the public deployment
 - [ ] Confirm primary contact details
 - [ ] Confirm a dedicated, user-controlled Sui wallet address for Sessions

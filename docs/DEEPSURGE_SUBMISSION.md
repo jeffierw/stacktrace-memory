@@ -60,12 +60,12 @@ while the managed Mainnet write still completed successfully.
 ## Required links and identity
 
 - Live app: https://stacktrace-memory.vercel.app
-- Public GitHub repository: **TODO after GitHub authentication**
+- Public GitHub repository: https://github.com/jeffierw/stacktrace-memory
 - Medium or Inkray article: **TODO after publishing `ARTICLE_DRAFT.md`**
 - X post tagging `@WalrusProtocol` and `#WalrusMemory`: **TODO**
 - Third-party community promotion link: **TODO**
 - Primary contact: **TODO — owner must provide**
-- GitHub account: **TODO — confirm account after re-authentication**
+- GitHub account: `jeffierw`
 - Dedicated Sessions wallet: **TODO — confirm a user-controlled Sui address**
 
 ## Suggested demo script

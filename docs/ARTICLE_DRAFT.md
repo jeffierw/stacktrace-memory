@@ -108,6 +108,6 @@ partner who remembers where the investigation stopped.
 ## Links
 
 - Live demo: https://stacktrace-memory.vercel.app
-- Source code: **TODO**
+- Source code: https://github.com/jeffierw/stacktrace-memory
 - Walrus Memory agent ID:
   `0xdfc4e57e4a0f9378d42267d68471419982b6e1e7d0c9619c6308091a3f69588a`
