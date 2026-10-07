@@ -1,6 +1,7 @@
 # Promotion Drafts
 
-Replace `<ARTICLE_URL>` after the article is published.
+Published article:
+https://medium.com/@jeffier2015/i-built-a-debugging-chatbot-that-remembers-what-already-failed-dea1dc2bc269
 
 ## X
 
@@ -11,7 +12,7 @@ It uses DeepSeek Flash + Walrus Memory on Mainnet, with observable recalls and
 blob IDs instead of a black-box “memory enabled” badge.
 
 Live: https://stacktrace-memory.vercel.app
-Article: <ARTICLE_URL>
+Article: https://medium.com/@jeffier2015/i-built-a-debugging-chatbot-that-remembers-what-already-failed-dea1dc2bc269
 Code: https://github.com/jeffierw/stacktrace-memory
 
 @WalrusProtocol #WalrusMemory
@@ -38,7 +39,7 @@ Memory Inspector exposes recalled facts, similarity scores, saved facts, and
 Walrus blob IDs.
 
 - Live demo: https://stacktrace-memory.vercel.app
-- Article: <ARTICLE_URL>
+- Article: https://medium.com/@jeffier2015/i-built-a-debugging-chatbot-that-remembers-what-already-failed-dea1dc2bc269
 - Source: https://github.com/jeffierw/stacktrace-memory
 
 Feedback on the memory extraction and debugging flow is welcome.

@@ -61,7 +61,8 @@ while the managed Mainnet write still completed successfully.
 
 - Live app: https://stacktrace-memory.vercel.app
 - Public GitHub repository: https://github.com/jeffierw/stacktrace-memory
-- Medium or Inkray article: **TODO after publishing `ARTICLE_DRAFT.md`**
+- Medium article:
+  https://medium.com/@jeffier2015/i-built-a-debugging-chatbot-that-remembers-what-already-failed-dea1dc2bc269
 - X post tagging `@WalrusProtocol` and `#WalrusMemory`: **TODO**
 - Third-party community promotion link: **TODO**
 - Primary contact: **TODO — owner must provide**

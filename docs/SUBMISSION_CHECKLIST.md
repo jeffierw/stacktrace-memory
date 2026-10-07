@@ -34,7 +34,8 @@ Deadline: **2026-10-09 14:00 UTC**
 - [ ] Capture a screenshot or short demo video from the public deployment
 - [ ] Confirm primary contact details
 - [ ] Confirm a dedicated, user-controlled Sui wallet address for Sessions
-- [ ] Publish `ARTICLE_DRAFT.md` on Medium or Inkray
+- [x] Publish `ARTICLE_DRAFT.md` on Medium:
+  https://medium.com/@jeffier2015/i-built-a-debugging-chatbot-that-remembers-what-already-failed-dea1dc2bc269
 - [ ] Submit Walrus Memory feedback, including the friction point and idea
 - [ ] Optionally open the drafted GitHub feature request during the event
 - [ ] Join the Walrus Discord
