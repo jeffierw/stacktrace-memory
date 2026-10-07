@@ -5,6 +5,9 @@ https://medium.com/@jeffier2015/i-built-a-debugging-chatbot-that-remembers-what-
 
 ## X
 
+Posted reply:
+https://x.com/HiYepWan/status/2107694205976134068
+
 I built StackTrace Memory, a debugging chatbot that remembers your stack,
 failed fixes, outcomes, and next steps across sessions.
 

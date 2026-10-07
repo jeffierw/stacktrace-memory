@@ -63,7 +63,8 @@ while the managed Mainnet write still completed successfully.
 - Public GitHub repository: https://github.com/jeffierw/stacktrace-memory
 - Medium article:
   https://medium.com/@jeffier2015/i-built-a-debugging-chatbot-that-remembers-what-already-failed-dea1dc2bc269
-- X post tagging `@WalrusProtocol` and `#WalrusMemory`: **TODO**
+- X post tagging `@WalrusProtocol` and `#WalrusMemory`:
+  https://x.com/HiYepWan/status/2107694205976134068
 - Third-party community promotion link: **TODO**
 - Primary contact: **TODO — owner must provide**
 - GitHub account: `jeffierw`

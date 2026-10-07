@@ -39,7 +39,8 @@ Deadline: **2026-10-09 14:00 UTC**
 - [ ] Submit Walrus Memory feedback, including the friction point and idea
 - [ ] Optionally open the drafted GitHub feature request during the event
 - [ ] Join the Walrus Discord
-- [ ] Share the article on X, tagging `@WalrusProtocol` with `#WalrusMemory`
+- [x] Share the article on X, tagging `@WalrusProtocol` with `#WalrusMemory`:
+  https://x.com/HiYepWan/status/2107694205976134068
 - [ ] Share the article in a qualifying third-party developer community
 - [ ] Submit once on DeepSurge before the deadline
 
