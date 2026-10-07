@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1920 1080">
+  <rect width="1920" height="1080" fill="#f4f3ec"/>
+  <circle cx="180" cy="120" r="430" fill="#c9f45d" opacity="0.18"/>
+  <rect x="292" y="252" width="230" height="230" rx="58" fill="#10140f"/>
+  <rect x="278" y="238" width="230" height="230" rx="58" fill="#c9f45d" stroke="#10140f" stroke-width="9"/>
+  <text x="393" y="390" fill="#10140f" font-family="Arial, Helvetica, sans-serif" font-size="112" font-weight="900" text-anchor="middle">S/</text>
+  <text x="610" y="306" fill="#667064" font-family="Menlo, monospace" font-size="28" letter-spacing="5">STACKTRACE MEMORY</text>
+  <text x="610" y="405" fill="#10140f" font-family="Arial, Helvetica, sans-serif" font-size="80" font-weight="700">Debugging that remembers.</text>
+  <text x="610" y="474" fill="#667064" font-family="Menlo, monospace" font-size="28">DeepSeek Flash + Walrus Memory on Mainnet</text>
+  <line x1="278" y1="594" x2="1642" y2="594" stroke="#d8dbcf" stroke-width="3"/>
+  <text x="278" y="680" fill="#173f2e" font-family="Arial, Helvetica, sans-serif" font-size="45" font-weight="700">Recall the stack. Avoid failed fixes. Continue the investigation.</text>
+  <text x="278" y="770" fill="#667064" font-family="Menlo, monospace" font-size="27">Cross-session recall · observable match scores · verifiable Walrus blob IDs</text>
+</svg>

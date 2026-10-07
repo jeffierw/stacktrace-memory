@@ -46,16 +46,20 @@ while the managed Mainnet write still completed successfully.
 
 - MemWal agent/account ID:
   `0xdfc4e57e4a0f9378d42267d68471419982b6e1e7d0c9619c6308091a3f69588a`
-- Verified blob count on 2026-10-06: **13**
+- Verified blob count as of 2026-10-07: **at least 14**
 - Cross-session test: 5 earlier facts recalled in a fresh session, followed by
   4 new saved facts; an isolated smoke-test namespace contains 1 additional
   blob.
 - Public production verification: 5 prior facts recalled and 3 new resolution
   facts stored through the deployed app.
+- Latest production demo: 5 prior signed-upload facts recalled in a fresh
+  session and 1 new fact saved to Mainnet.
 - Example recalled blob:
   `i2pckLAmL3Q_tEgMLkfR2XB9iCzwA6uN3pneF_BVkLw`
 - Example Mainnet smoke-test blob:
   `GlkiWfBuyaoGBq6enNoxXQ_tRuKi2MgyOR6TwUggHxc`
+- Latest production demo blob:
+  `Fs9ZUdYFV6th1HYuRypec5lM8LLi77-XA0fhEybvRBk`
 
 ## Required links and identity
 

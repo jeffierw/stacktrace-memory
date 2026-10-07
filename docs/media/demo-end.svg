@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1920 1080">
+  <rect width="1920" height="1080" fill="#173f2e"/>
+  <circle cx="1680" cy="40" r="560" fill="#c9f45d" opacity="0.12"/>
+  <rect x="220" y="214" width="170" height="170" rx="42" fill="#10140f"/>
+  <rect x="208" y="202" width="170" height="170" rx="42" fill="#c9f45d" stroke="#10140f" stroke-width="8"/>
+  <text x="293" y="316" fill="#10140f" font-family="Arial, Helvetica, sans-serif" font-size="82" font-weight="900" text-anchor="middle">S/</text>
+  <text x="458" y="280" fill="#ffffff" font-family="Arial, Helvetica, sans-serif" font-size="76" font-weight="700">StackTrace Memory</text>
+  <text x="458" y="348" fill="#c9f45d" font-family="Menlo, monospace" font-size="28">Your debugging context, carried forward.</text>
+  <line x1="208" y1="484" x2="1712" y2="484" stroke="#ffffff" stroke-opacity="0.22" stroke-width="3"/>
+  <text x="208" y="590" fill="#ffffff" font-family="Menlo, monospace" font-size="32">LIVE</text>
+  <text x="410" y="590" fill="#c9f45d" font-family="Menlo, monospace" font-size="32">stacktrace-memory.vercel.app</text>
+  <text x="208" y="672" fill="#ffffff" font-family="Menlo, monospace" font-size="32">CODE</text>
+  <text x="410" y="672" fill="#c9f45d" font-family="Menlo, monospace" font-size="32">github.com/jeffierw/stacktrace-memory</text>
+  <text x="208" y="822" fill="#ffffff" font-family="Arial, Helvetica, sans-serif" font-size="42" font-weight="700">Walrus Session 8 · Beyond the Big Two</text>
+</svg>

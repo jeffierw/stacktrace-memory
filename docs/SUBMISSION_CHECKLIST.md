@@ -10,7 +10,8 @@ Deadline: **2026-10-09 14:00 UTC**
 - [x] Server-only API and delegate keys
 - [x] Stable per-tester namespace isolation
 - [x] Cross-session recall demonstrated in the existing Chrome session
-- [x] 13 Mainnet memories verified across local and public production flows
+- [x] At least 14 Mainnet memories verified across local and public production
+  flows
 - [x] Mainnet agent/account ID recorded
 - [x] Production build passes
 - [x] TypeScript check passes
@@ -26,6 +27,7 @@ Deadline: **2026-10-09 14:00 UTC**
 - [x] DeepSurge project form fields audited
 - [x] DeepSurge project logo prepared
 - [x] Demo recording script prepared
+- [x] Production recall screenshot and 25-second demo video prepared
 - [x] Joined the Walrus Discord and verified access to the Session 8 channel
 
 ## Requires account access or owner input
@@ -35,7 +37,8 @@ Deadline: **2026-10-09 14:00 UTC**
   https://github.com/jeffierw/stacktrace-memory
 - [ ] Complete two additional real-user tests with at least 10 saved memories
   per tester
-- [ ] Capture a screenshot or short demo video from the public deployment
+- [x] Capture a screenshot or short demo video from the public deployment
+- [ ] Upload the demo video and record its public URL
 - [ ] Confirm primary contact details
 - [ ] Confirm a dedicated, user-controlled Sui wallet address for Sessions
 - [x] Publish `ARTICLE_DRAFT.md` on Medium:
