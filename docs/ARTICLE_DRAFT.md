@@ -78,8 +78,6 @@ total to thirteen.
 That is the difference memory should make: not a badge saying "memory enabled,"
 but a visibly better next answer.
 
-> Add the cross-session Memory Inspector screenshot here before publishing.
-
 ## What I would improve next
 
 The private beta uses invite codes to demonstrate namespace isolation. A
