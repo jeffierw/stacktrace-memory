@@ -20,12 +20,17 @@ Deadline: **2026-10-09 14:00 UTC**
 - [x] Vercel production project linked and deployed
 - [x] Production environment variables configured securely
 - [x] Public URL cross-session write/recall test passed
+- [x] DeepSurge builder registration completed for Special Prizes
+- [x] Article revised to the requested 500–800 word range
+- [x] X and third-party developer-community promotion copy drafted
 
 ## Requires account access or owner input
 
 - [x] Re-authenticate GitHub CLI (`jeffierw`)
 - [x] Create and push public GitHub repository:
   https://github.com/jeffierw/stacktrace-memory
+- [ ] Complete two additional real-user tests with at least 10 saved memories
+  per tester
 - [ ] Capture a screenshot or short demo video from the public deployment
 - [ ] Confirm primary contact details
 - [ ] Confirm a dedicated, user-controlled Sui wallet address for Sessions

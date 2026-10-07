@@ -18,11 +18,6 @@ developer already increased an application body-size limit and it failed, a new
 chat may recommend the same change. The answer can be individually plausible
 while still wasting time.
 
-A naive solution is to place the complete chat history into every prompt. That
-quickly becomes noisy and expensive. Old details can dominate the current
-problem, and separate users can accidentally share context if isolation is not
-designed carefully.
-
 ## The design
 
 StackTrace Memory uses four server-side steps:
@@ -37,18 +32,16 @@ StackTrace Memory uses four server-side steps:
 4. After the answer, the app analyzes only the developer's statement and saves
    durable facts. The assistant's guesses are not written back as truth.
 
-The browser never receives the DeepSeek API key or the Walrus Memory delegate
-key. All provider and memory calls run in Next.js route handlers. The UI includes
-a Memory Inspector that shows which facts were recalled, which were saved, the
-similarity score, and each Walrus blob ID.
+Provider and delegate keys remain inside Next.js route handlers. A Memory
+Inspector shows recalled and saved facts, similarity scores, and Walrus blob
+IDs, making the memory behavior directly observable.
 
 ## Why DeepSeek
 
-I used DeepSeek Flash through the DeepSeek API and Vercel AI SDK. It provides a
-fast streaming response and makes the project eligible for the hackathon's
-Beyond the Big Two category. The model is instructed to ask for one
-high-information diagnostic at a time, state uncertainty plainly, and avoid
-recommending a failed fix unless a materially different variation is justified.
+I used DeepSeek Flash through the DeepSeek API and Vercel AI SDK. The model asks
+for one high-information diagnostic at a time and avoids recommending a failed
+fix unless a materially different variation is justified. This also makes the
+project eligible for the Beyond the Big Two category.
 
 The LLM integration was straightforward. The more interesting integration
 boundary was memory: a MemWal account is a shared Sui object, while the SDK uses
@@ -89,21 +82,18 @@ but a visibly better next answer.
 
 ## What I would improve next
 
-The current private beta uses invite codes because they make namespace
-isolation simple to demonstrate. A production version should use authenticated
-accounts and explicit workspace membership. I would also add deduplication,
-memory review and correction controls, structured rate limiting, and an
-evaluation set that measures whether recalled context reduces repeated failed
-recommendations.
+The private beta uses invite codes to demonstrate namespace isolation. A
+production version should use authenticated workspaces, deduplication, memory
+review and correction controls, and rate limiting.
 
 For Walrus Memory, I would like the dashboard to show the account owner,
 delegate address, network, sponsorship status, and current Mainnet blob count in
 one place. That would make setup and submission evidence much easier to verify.
 
-StackTrace Memory is small by design: recall relevant facts, answer the current
-question, and save only what the developer actually reported. The result feels
-less like starting over with a chatbot and more like returning to a debugging
-partner who remembers where the investigation stopped.
+The design stays deliberately small: recall relevant facts, answer the current
+question, and save only what the developer actually reported. It feels less
+like restarting a chatbot and more like returning to a debugging partner who
+remembers where the investigation stopped.
 
 ## Links
 
