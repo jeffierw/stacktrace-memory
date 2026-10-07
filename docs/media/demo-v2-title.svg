@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1920" height="1920" viewBox="0 0 1920 1920">
+  <rect width="1920" height="1080" fill="#123f31"/>
+  <rect x="128" y="250" width="250" height="250" rx="58" fill="#c8fb50" stroke="#0e1712" stroke-width="12"/>
+  <text x="253" y="420" text-anchor="middle" fill="#0e1712" font-family="Arial, sans-serif" font-size="120" font-weight="700">S/</text>
+  <text x="458" y="304" fill="#ffffff" font-family="Arial, sans-serif" font-size="78" font-weight="700">StackTrace Memory</text>
+  <text x="458" y="388" fill="#c8fb50" font-family="Arial, sans-serif" font-size="39">A cross-session debugging assistant on Walrus</text>
+  <text x="458" y="468" fill="#ffffff" font-family="Arial, sans-serif" font-size="29">Real Mainnet writes · verifiable blob IDs · memory-aware answers</text>
+  <line x1="458" y1="566" x2="1670" y2="566" stroke="#6f9487" stroke-width="3"/>
+  <text x="458" y="646" fill="#c8fb50" font-family="Arial, sans-serif" font-size="28" font-weight="700" letter-spacing="3">THE PROOF</text>
+  <text x="458" y="722" fill="#ffffff" font-family="Arial, sans-serif" font-size="34">Session 2 receives one new observation.</text>
+  <text x="458" y="776" fill="#ffffff" font-family="Arial, sans-serif" font-size="34">It still recalls and uses the durable facts from Session 1.</text>
+</svg>

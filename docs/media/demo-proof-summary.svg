@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1920" height="1920" viewBox="0 0 1920 1920">
+  <rect width="1920" height="1080" fill="#123f30"/>
+  <circle cx="1700" cy="120" r="430" fill="#285b3a"/>
+  <rect x="112" y="106" width="156" height="156" rx="38" fill="#c8fb50" stroke="#0e1712" stroke-width="10"/>
+  <text x="190" y="210" text-anchor="middle" fill="#0e1712" font-family="Arial, sans-serif" font-size="78" font-weight="700">S/</text>
+  <text x="316" y="184" fill="#ffffff" font-family="Arial, sans-serif" font-size="66" font-weight="700">Cross-session memory proved</text>
+  <text x="316" y="232" fill="#c8fb50" font-family="Menlo, monospace" font-size="25">StackTrace Memory · Walrus Session 8</text>
+
+  <g font-family="Arial, sans-serif">
+    <rect x="112" y="344" width="500" height="280" rx="28" fill="#f4f3ec"/>
+    <text x="162" y="414" fill="#647068" font-size="22" font-weight="700" letter-spacing="2">RECALLED</text>
+    <text x="162" y="522" fill="#123f30" font-size="102" font-weight="700">5</text>
+    <text x="162" y="584" fill="#111713" font-size="25">earlier Mainnet memories</text>
+
+    <rect x="710" y="344" width="500" height="280" rx="28" fill="#f4f3ec"/>
+    <text x="760" y="414" fill="#647068" font-size="22" font-weight="700" letter-spacing="2">SAVED</text>
+    <text x="760" y="522" fill="#123f30" font-size="102" font-weight="700">1</text>
+    <text x="760" y="584" fill="#111713" font-size="25">new durable fact + blob ID</text>
+
+    <rect x="1308" y="344" width="500" height="280" rx="28" fill="#f4f3ec"/>
+    <text x="1358" y="414" fill="#647068" font-size="22" font-weight="700" letter-spacing="2">RUNTIME</text>
+    <text x="1358" y="500" fill="#123f30" font-size="52" font-weight="700">DeepSeek</text>
+    <text x="1358" y="552" fill="#123f30" font-size="42" font-weight="700">Flash</text>
+    <text x="1358" y="590" fill="#111713" font-size="22">with Walrus Memory</text>
+
+    <text x="112" y="746" fill="#c8fb50" font-size="31" font-weight="700">The second session received only the new symptom.</text>
+    <text x="112" y="806" fill="#ffffff" font-size="35" font-weight="700">The answer still used the saved case ID, prior outcome, and next test.</text>
+    <text x="112" y="876" fill="#cbd8cf" font-size="24">Visible match scores and Walrus blob IDs make the memory behavior inspectable—not decorative.</text>
+
+    <text x="112" y="988" fill="#ffffff" font-family="Menlo, monospace" font-size="26">stacktrace-memory.vercel.app</text>
+    <text x="844" y="988" fill="#c8fb50" font-family="Menlo, monospace" font-size="26">github.com/jeffierw/stacktrace-memory</text>
+  </g>
+</svg>

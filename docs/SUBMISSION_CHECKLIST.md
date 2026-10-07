@@ -27,7 +27,7 @@ Deadline: **2026-10-09 14:00 UTC**
 - [x] DeepSurge project form fields audited
 - [x] DeepSurge project logo prepared
 - [x] Demo recording script prepared
-- [x] Production recall screenshot and 25-second demo video prepared
+- [x] Production recall screenshot and 60-second cross-session demo video prepared
 - [x] Joined the Walrus Discord and verified access to the Session 8 channel
 
 ## Requires account access or owner input
@@ -38,8 +38,8 @@ Deadline: **2026-10-09 14:00 UTC**
 - [ ] Complete two additional real-user tests with at least 10 saved memories
   per tester
 - [x] Capture a screenshot or short demo video from the public deployment
-- [x] Upload the demo video as unlisted and record its public URL:
-  https://youtu.be/oeTDY7iFiG8
+- [ ] Upload `docs/media/stacktrace-memory-demo-v2.mp4` as unlisted and record
+  its public URL. Do not submit the previous draft video.
 - [ ] Confirm primary contact details
 - [ ] Confirm a dedicated, user-controlled Sui wallet address for Sessions
 - [x] Publish `ARTICLE_DRAFT.md` on Medium:

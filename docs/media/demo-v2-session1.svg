@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1920" height="1920" viewBox="0 0 1920 1920">
+  <rect width="1920" height="1080" fill="#f4f3ec"/>
+  <rect width="1920" height="172" fill="#164735"/>
+  <text x="76" y="66" fill="#c8fb50" font-family="Arial, sans-serif" font-size="29" font-weight="700" letter-spacing="3">STEP 2 · SESSION 1</text>
+  <text x="76" y="128" fill="#ffffff" font-family="Arial, sans-serif" font-size="46" font-weight="700">Store the environment, failed fix, and next test</text>
+  <image href="demo-session1-live.png" x="90" y="184" width="1740" height="860" preserveAspectRatio="xMidYMid meet"/>
+  <rect x="90" y="972" width="1740" height="64" rx="16" fill="#164735" opacity="0.96"/>
+  <text x="960" y="1015" text-anchor="middle" fill="#ffffff" font-family="Arial, sans-serif" font-size="26">Six facts are encrypted and written to Walrus Mainnet with blob IDs.</text>
+</svg>

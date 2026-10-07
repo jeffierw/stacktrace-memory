@@ -38,8 +38,8 @@ Built with Next.js 16, DeepSeek Flash, Vercel AI SDK, and
 - Article:
   https://medium.com/@jeffier2015/i-built-a-debugging-chatbot-that-remembers-what-already-failed-dea1dc2bc269
 - X announcement reply: https://x.com/HiYepWan/status/2107694205976134068
-- Demo video file: `docs/media/stacktrace-memory-demo.mp4`
-- Public demo URL: https://youtu.be/oeTDY7iFiG8
+- Demo video file: `docs/media/stacktrace-memory-demo-v2.mp4`
+- Public demo URL: **TODO — upload the verified v2 video; do not submit the previous draft**
 
 ## Media
 

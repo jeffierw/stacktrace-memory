@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1920" height="1920" viewBox="0 0 1920 1920">
+  <rect width="1920" height="1080" fill="#f4f3ec"/>
+  <rect width="1920" height="172" fill="#164735"/>
+  <text x="76" y="66" fill="#c8fb50" font-family="Arial, sans-serif" font-size="29" font-weight="700" letter-spacing="3">STEP 5 · RECALL CHANGES THE ANSWER</text>
+  <text x="76" y="128" fill="#ffffff" font-family="Arial, sans-serif" font-size="46" font-weight="700">Earlier facts return with scores and blob IDs</text>
+  <image href="demo-session2-recall-clean.png" x="90" y="184" width="1740" height="860" preserveAspectRatio="xMidYMid meet"/>
+  <rect x="90" y="972" width="1740" height="64" rx="16" fill="#164735" opacity="0.96"/>
+  <text x="960" y="1015" text-anchor="middle" fill="#ffffff" font-family="Arial, sans-serif" font-size="26">Five earlier facts return. The answer follows the saved next test.</text>
+</svg>
