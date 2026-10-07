@@ -6,26 +6,28 @@ StackTrace Memory
 
 ## One-line description
 
-A DeepSeek-powered debugging chatbot that remembers a developer's stack,
-failed fixes, outcomes, and unresolved next steps across sessions using Walrus
-Memory on Mainnet.
+A debugging partner that remembers your stack, failed fixes, and next steps
+across sessions with verifiable Walrus Mainnet memory.
 
 ## Full description
 
-Developers lose time when every debugging conversation starts from zero.
-StackTrace Memory recalls only the context relevant to the current symptom,
-warns when a proposed fix has already failed, and carries unresolved next steps
-into a new session. It is designed for individual developers and small
-engineering teams that need continuity without turning an entire chat history
-into a prompt.
+I kept running into the same problem with coding assistants: every new chat
+started from zero. I had to repeat the environment, paste the same logs, and
+explain which fixes had already failed. StackTrace Memory is the debugging
+partner I wanted—one that can leave a conversation and still pick up the actual
+investigation later.
 
-Each tester receives an invite code. The server converts it into a stable,
-non-reversible namespace using HMAC-SHA256, preventing testers from reading one
-another's memory. Before each DeepSeek response, the app semantically recalls
-relevant Walrus Memory entries and injects them as untrusted context. After the
-response, only the user's own statement is analyzed into durable facts and
-stored on Walrus Mainnet. The Memory Inspector exposes recalled and saved facts,
-similarity scores, and blob IDs so memory is visible rather than decorative.
+Before DeepSeek answers, the app semantically recalls only the relevant Walrus
+Memory entries. Afterward, it extracts durable facts from the developer's own
+message and stores them on Mainnet. The Memory Inspector shows recalled facts,
+match scores, newly saved facts, and blob IDs, so a reviewer can see exactly
+when memory changes an answer.
+
+The demo uses two genuinely separate sessions. Session 1 saves the environment,
+a failed timeout change, the observed failure boundary, and the next test. I
+then clear the transcript and give Session 2 only one new symptom. It recalls
+five earlier facts and continues with the saved next step instead of restarting
+the diagnosis.
 
 ## Model and runtime
 
@@ -69,12 +71,21 @@ while the managed Mainnet write still completed successfully.
   https://medium.com/@jeffier2015/i-built-a-debugging-chatbot-that-remembers-what-already-failed-dea1dc2bc269
 - X post tagging `@WalrusProtocol` and `#WalrusMemory`:
   https://x.com/HiYepWan/status/2107694205976134068
-- Demo video: **TODO — upload `docs/media/stacktrace-memory-demo-v2.mp4`; do not
-  submit the previous draft**
+- Demo video: https://youtu.be/eFr1amaHU9w
 - Third-party community promotion link: **TODO**
 - Primary contact: **TODO — owner must provide**
 - GitHub account: `jeffierw`
 - Dedicated Sessions wallet: **TODO — confirm a user-controlled Sui address**
+
+## Judge quick test
+
+1. Open https://stacktrace-memory.vercel.app.
+2. Enter the dedicated judge invite code included in the DeepSurge submission.
+3. In Session 1, describe an environment, an attempted fix, the outcome, and a
+   next step. Wait for the saved facts and blob IDs.
+4. Click **New session** and provide only a new observation.
+5. Check the Memory Inspector for recalled facts and match scores, then confirm
+   that the answer uses the saved context.
 
 ## Suggested demo script
 

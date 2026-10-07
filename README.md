@@ -120,3 +120,12 @@ and server-only. After deployment, verify `/api/status`, then complete a real
 write and cross-session recall through the public URL.
 
 Submission drafts and the remaining launch checklist are in [`docs/`](./docs/).
+
+## Live demo
+
+- App: https://stacktrace-memory.vercel.app
+- Cross-session walkthrough: https://youtu.be/eFr1amaHU9w
+
+Judges receive a dedicated invite code in the submission. Each code maps to an
+isolated memory namespace, so reviewers can run a real two-session test without
+mixing their results with another tester's history.
