@@ -69,6 +69,7 @@ while the managed Mainnet write still completed successfully.
   https://medium.com/@jeffier2015/i-built-a-debugging-chatbot-that-remembers-what-already-failed-dea1dc2bc269
 - X post tagging `@WalrusProtocol` and `#WalrusMemory`:
   https://x.com/HiYepWan/status/2107694205976134068
+- Demo video: https://youtu.be/oeTDY7iFiG8
 - Third-party community promotion link: **TODO**
 - Primary contact: **TODO — owner must provide**
 - GitHub account: `jeffierw`

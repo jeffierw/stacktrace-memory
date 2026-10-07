@@ -38,7 +38,8 @@ Deadline: **2026-10-09 14:00 UTC**
 - [ ] Complete two additional real-user tests with at least 10 saved memories
   per tester
 - [x] Capture a screenshot or short demo video from the public deployment
-- [ ] Upload the demo video and record its public URL
+- [x] Upload the demo video as unlisted and record its public URL:
+  https://youtu.be/oeTDY7iFiG8
 - [ ] Confirm primary contact details
 - [ ] Confirm a dedicated, user-controlled Sui wallet address for Sessions
 - [x] Publish `ARTICLE_DRAFT.md` on Medium:
