@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1024 1024" role="img" aria-labelledby="title description">
+  <title id="title">StackTrace Memory logo</title>
+  <desc id="description">A lime square with a black S slash mark and offset shadow.</desc>
+  <rect width="1024" height="1024" fill="#f4f3ec"/>
+  <rect x="214" y="230" width="620" height="620" rx="152" fill="#10140f"/>
+  <rect x="190" y="190" width="620" height="620" rx="152" fill="#c9f45d" stroke="#10140f" stroke-width="24"/>
+  <text x="500" y="592" fill="#10140f" font-family="Arial, Helvetica, sans-serif" font-size="310" font-weight="900" text-anchor="middle">S/</text>
+</svg>

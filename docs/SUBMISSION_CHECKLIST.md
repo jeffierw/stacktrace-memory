@@ -23,6 +23,10 @@ Deadline: **2026-10-09 14:00 UTC**
 - [x] DeepSurge builder registration completed for Special Prizes
 - [x] Article revised to the requested 500–800 word range
 - [x] X and third-party developer-community promotion copy drafted
+- [x] DeepSurge project form fields audited
+- [x] DeepSurge project logo prepared
+- [x] Demo recording script prepared
+- [x] Joined the Walrus Discord and verified access to the Session 8 channel
 
 ## Requires account access or owner input
 
@@ -36,9 +40,9 @@ Deadline: **2026-10-09 14:00 UTC**
 - [ ] Confirm a dedicated, user-controlled Sui wallet address for Sessions
 - [x] Publish `ARTICLE_DRAFT.md` on Medium:
   https://medium.com/@jeffier2015/i-built-a-debugging-chatbot-that-remembers-what-already-failed-dea1dc2bc269
-- [ ] Submit Walrus Memory feedback, including the friction point and idea
-- [ ] Optionally open the drafted GitHub feature request during the event
-- [ ] Join the Walrus Discord
+- [ ] Include one honest integration limitation and one improvement idea in the
+  required final submission
+- [x] Do not open a GitHub issue unless a reproducible bug is found
 - [x] Share the article on X, tagging `@WalrusProtocol` with `#WalrusMemory`:
   https://x.com/HiYepWan/status/2107694205976134068
 - [ ] Share the article in a qualifying third-party developer community
